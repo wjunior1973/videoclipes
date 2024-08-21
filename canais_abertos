@@ -237,6 +237,9 @@ http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 #EXTINF:-1,Record News
 https://cc-dozswt8rxfksa.akamaized.net/rnw/rn/rnw_rn.m3u8
 
+#EXTINF:-1,Rede Brasil [RBTV]
+https://video07.logicahost.com.br/redebrasil/redebrasil/chunklist_w1285331026.m3u8
+
 #EXTINF:-1,Rede Seculo 21
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
 
@@ -290,6 +293,9 @@ http://168.205.87.198:8555/live/1217/123456/104.m3u8
 
 #EXTINF:-1,Series Classicas
 http://168.205.87.198:8555/live/1217/123456/160.m3u8
+
+#EXTINF:-1,Sesc TV
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/a41dcac4-0033-46ca-b03f-d7858c6ad0c1_index1080p.m3u8
 
 #EXTINF:-1,Sony One Classics
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8

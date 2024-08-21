@@ -33,6 +33,12 @@ https://acesso.ecast.site:3070/live/awtvlive.m3u8
 #EXTINF:-1,Band [RBA TV]
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
+#EXTINF:-1,Band [TV Arapuan]
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist_720p.m3u8
+
+#EXTINF:-1,Band [Vale Radio Web TV]
+https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_720p.m3u8
+
 #EXTINF:-1,Bem Melhor TV
 https://video01.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8
 
@@ -59,6 +65,9 @@ https://canalgov-stream.ebc.com.br/index.m3u8
 
 #EXTINF:-1,Canal Rural
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+
+#EXTINF:-1,Canal Smart
+https://5ffab78b24f94.streamlock.net/smart/smart/playlist.m3u8
 
 #EXTINF:-1,Canal Start
 https://stmv1.srvif.com/canalstart/canalstart/playlist.m3u8
@@ -142,7 +151,7 @@ https://acesso.ecast.site:3630/live/imperiallive.m3u8
 https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
 
 #EXTINF:-1,Jovem Pan News
-https://amg01391-addigital-jovempan-distrotv-tvd2e.amagi.tv/playlist/amg01391-addigital-jovempan-distrotv/cb543d187c6c678b9ad43e6ecef042a9f9581fde1d6988693eb5518975d1073edce2a59caa08ff16388f19c062017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ad7f4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f8b55c44d93ea1e70141c67917fa83439c8101e9d6810e8315d325f941ccc3f189d311d0e4255293768abeb4eb4307fba24bd1af7fa4db806035ee0942242d74966d17632c46eb744c49ecf78b9e68fa01c78a24fb0f5f2bed372ef658ba6aa604a6f34bb3efceb7aea796c5b6395102da8f908fe93b32b064eea1e6971416fca3412d13993f9c4a5f49e23816b5f3e55436cfebb21e3bb989e1310ff5bcbf86fdb98e4bd317cfc4fd9e387882026e0cab52b89361d728922de69e53696b444aa99542d7c6f76a703401d5db1ee31a15ef8fd0c3c7586f83203a4af86cdc6c006ee73d7833b07eaed46f3ac96e21ad0110d714758c4bf7bd6cd2a2d8ee0972f5fdcf50f062eafa5b82af4cf9236c1752f3c12d59445e749fbb355a7e2a953791b9a1d67e0704e3e0debe981d69755f39664cddacb40ad8e4a60e1219c65f231a04331f840bdb6c9f4d093727c71adcbb1a36e222243eedb3304d500fc790e699e63857a3a086146ee681bde988afca082a/187/1280x720_3000797/index.m3u8
+https://cc-lpqo0gcfdazd6.akamaized.net/playlist.m3u8
 
 #EXTINF:-1,LBV TV
 http://168.205.87.198:8555/live/1217/123456/21.m3u8
@@ -165,9 +174,6 @@ https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1,MAV TV
 https://cc-panvcqnzkgrdl.akamaized.net/Sports7/Sports7_BR/Sports7.m3u8
 
-#EXTINF:-1,MTV Biggest Pop
-http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2fflivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=e1760207-0a78-8a50-619d-f898605668f9&advertisingId=e1760207-0a78-8a50-619d-f898605668f9&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1,Music Classics
 http://168.205.87.198:8555/live/1217/123456/231.m3u8
 
@@ -180,14 +186,17 @@ http://168.205.87.198:8555/live/1217/123456/236.m3u8
 #EXTINF:-1,Music Rock
 http://168.205.87.198:8555/live/1217/123456/237.m3u8
 
-#EXTINF:-1,My Time Brazil
-https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1,My Time Movie Network
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimemovie-samsungbr/playlist.m3u8
 
 #EXTINF:-1,New Brasil
-https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7pakstinpyajo/playlist.m3u8
+https://cc-7pakstinpyajo.akamaized.net/playlist.m3u8
 
 #EXTINF:-1,NCIS 24H
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1,NOW! 80s
+https://samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv/playlist/samsunguk-lightning-now80s-samsunguk/playlist.m3u8
 
 #EXTINF:-1,Oportunidades TV
 http://maistop.net:80/live/free/free/1.m3u8
@@ -219,8 +228,11 @@ https://cc-panvcqnzkgrdl.akamaized.net/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
 #EXTINF:-1,Record [TV Juina]
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 
-#EXTINF:-1,Record Minas
+#EXTINF:-1,Record [Minas]
 http://168.205.87.198:8555/live/1217/123456/96.m3u8
+
+#EXTINF:-1,Record [MT]
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 
 #EXTINF:-1,Record News
 https://cc-dozswt8rxfksa.akamaized.net/rnw/rn/rnw_rn.m3u8
@@ -231,10 +243,10 @@ https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
 #EXTINF:-1,Rede TV!
 https://d1wwtskvr1r98k.cloudfront.net/out/v1/f61282790c1f4644ba906364b7d49d8d/index.m3u8
 
-#EXTINF:-1,Rede TV! Minas
+#EXTINF:-1,Rede TV! [Minas]
 http://168.205.87.198:8555/live/1217/123456/102.m3u8
 
-#EXTINF:-1,Rede TV! Tocantins
+#EXTINF:-1,Rede TV! [Tocantins]
 https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/chunklist_w1575676158.m3u8
 
 #EXTINF:-1,Rede Vida
@@ -293,6 +305,9 @@ https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 
 #EXTINF:-1,Soul TV
 https://video01.soultv.com.br/soultv/soultv/chunklist_w1796476143.m3u8
+
+#EXTINF:-1,Spark TV
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sr15nxkp06uk9/playlist.m3u8
 
 #EXTINF:-1,Tastemade Brasil
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8

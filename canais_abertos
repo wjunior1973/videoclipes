@@ -9,11 +9,11 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Adrenalina Freezone
 https://cc-e2pb6h3gp19c3.akamaized.net/Sofa_Digital/Adrenalina_Freezone_BR/Adrenalina_Freezone.m3u8
 
-#EXTINF:-1 group-title="CANAIS DIVERSOS",Agro Brasil
-https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
-
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Agro+
 https://d1r94zrwa3gnlo.cloudfront.net/livestore105/stream/hls/291/291.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",AgroBrasil
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
 #EXTINF:-1 group-title="CANAIS DIVERSOS",All Sports
 http://168.205.87.198:8555/live/1217/123456/148.m3u8
@@ -23,6 +23,12 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Animax
 https://stream.ichibantv.com:3547/hybrid/play.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Assim e Portugal
+https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Astral TV
+https://isaocorp.cloudecast.com/astraltv/playlist.m3u8
 
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Avanca Brasil
 https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
@@ -48,6 +54,9 @@ https://8mwx.short.gy/BM&CNEWS/index.m3u8
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Boxkids TV
 http://tv.mapfibra.com.br:8555/live/1217/123456/259.m3u8
 
+#EXTINF:-1 group-title="CANAIS DIVERSOS",BRSuper TV
+http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
+
 #EXTINF:-1 group-title="CANAIS DIVERSOS",BS TV
 https://br5093.streamingdevideo.com.br/bstv/bstv/chunklist_w1014792137.m3u8
 
@@ -62,6 +71,9 @@ https://canaleducacao-stream.ebc.com.br/index.m3u8
 
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Canal Gov
 https://canalgov-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Canal Libras
+https://canallibras-stream.ebc.com.br/playlist.m3u8
 
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Canal Rural
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
@@ -102,6 +114,9 @@ https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS DIVERSOS",CNN Brasil
 http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Coletiva TV
+https://video02.logicahost.com.br/coletivatv/coletivatv/playlist.m3u8
+
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Cultne.tv
 https://cc-wn1j3f2wnu5lr.akamaized.net/manifest.m3u8
 
@@ -110,6 +125,9 @@ https://cc-oeelrj1iysbeq.akamaized.net/TV_Cultura/TV_Cultura_BR/TV_Cultura.m3u8
 
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Curta!
 https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",D+ TV
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 
 #EXTINF:-1 group-title="CANAIS DIVERSOS",D.P.A. 24H
 https://cc-vh52nvd84na11.akamaized.net/Globo/DPA_Fast_BR/DPA_Fast.m3u8
@@ -297,6 +315,9 @@ http://168.205.87.198:8555/live/1217/123456/160.m3u8
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Sesc TV
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/a41dcac4-0033-46ca-b03f-d7858c6ad0c1_index1080p.m3u8
 
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Sol Brasil
+https://video01.soultv.com.br/solbrasil/solbrasil/playlist.m3u8
+
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Sony One Classics
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
@@ -374,6 +395,12 @@ https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 group-title="CANAIS DIVERSOS",TVE
 http://streaming.procergs.com.br:1935/tve/stve/chunklist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Unique Sports
+https://video05.logicahost.com.br/uniquetvsports/uniquetvsports/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Unique TV
+https://video05.logicahost.com.br/uniquetvlive/uniquetvlive/playlist.m3u8
 
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Universidade da Pessoa
 http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8

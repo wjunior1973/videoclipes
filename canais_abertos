@@ -427,16 +427,16 @@ https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u
 
 ###### AGRONEGOCIOS ######
 
-#EXTINF:-1 group-title="CANAIS DIVERSOS",AgroBrasil
+#EXTINF:-1 group-title="AGRONEGOCIOS",AgroBrasil
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
-#EXTINF:-1 group-title="CANAIS DIVERSOS",Canal do Boi
+#EXTINF:-1 group-title="AGRONEGOCIOS",Canal do Boi
 http://168.205.87.198:8555/live/1217/123456/167.m3u8
 
-#EXTINF:-1 group-title="CANAIS DIVERSOS",Canal Rural
+#EXTINF:-1 group-title="AGRONEGOCIOS",Canal Rural
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="CANAIS DIVERSOS",Terra Viva
+#EXTINF:-1 group-title="AGRONEGOCIOS",Terra Viva
 https://d1r94zrwa3gnlo.cloudfront.net/livestore105/stream/hls/293/293.m3u8
 
 ###### FIM ######

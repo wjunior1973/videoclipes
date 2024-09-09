@@ -2,14 +2,23 @@
 
 ###### TV ABERTA ######
 
-#EXTINF:-1 group-title="TV ABERTA",Amazon Sat
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA",Band [RBA TV]
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Band [TV Arapuan]
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist_720p.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo NSC Blumenau
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/515
+
+#EXTINF:-1 group-title="TV ABERTA",Globo [MS]
+http://15.235.15.230:14504/
+
+#EXTINF:-1 group-title="TV ABERTA",Globo [RJ]
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/504
+
+#EXTINF:-1 group-title="TV ABERTA",Globo [SP]
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/511
 
 #EXTINF:-1 group-title="TV ABERTA",Record [Minas]
 http://168.205.87.198:8555/live/1217/123456/96.m3u8
@@ -37,17 +46,17 @@ http://168.205.87.198:8555/live/1217/123456/104.m3u8
 
 ###### VARIEDADES ######
 
-#EXTINF:-1 group-title="VARIEDADES",40 Graus TV
-https://acesso.ecast.site:3125/stream/play.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Assim e Portugal
-https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES",AWTV
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Canal da Praca
 https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/CanalDaPraca/8f4dbd2a-75c8-4407-8dc8-0dc243e3814d/4.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Canal Educacao
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Canal Libras
+https://canallibras-stream.ebc.com.br/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",CaTVE
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w848894322.m3u8
@@ -186,9 +195,6 @@ http://168.205.87.198:8555/live/1217/123456/238.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Playpoca Series
 http://168.205.87.198:8555/live/1217/123456/239.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Rede Brasil [RBTV]
-https://video07.logicahost.com.br/redebrasil/redebrasil/chunklist_w1285331026.m3u8
-
 #EXTINF:-1 group-title="FILMES/SERIES",Run:Time Acao
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 
@@ -311,14 +317,6 @@ http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Zoomoo Kids
 http://168.205.87.198:8555/live/1217/123456/162.m3u8
-
-###### EDUCACIONAIS ######
-
-#EXTINF:-1 group-title="EDUCACIONAIS",Canal Educacao
-https://canaleducacao-stream.ebc.com.br/index.m3u8
-
-#EXTINF:-1 group-title="EDUCACIONAIS",Canal Libras
-https://canallibras-stream.ebc.com.br/playlist.m3u8
 
 ###### GEEK ######
 

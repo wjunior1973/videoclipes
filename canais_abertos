@@ -2,14 +2,26 @@
 
 ###### TV ABERTA ######
 
+#EXTINF:-1 group-title="TV ABERTA",Band
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/485
+
 #EXTINF:-1 group-title="TV ABERTA",Band [RBA TV]
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Band [TV Arapuan]
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist_720p.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",Globo
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/511
+
 #EXTINF:-1 group-title="TV ABERTA",Globo NSC Blumenau
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/515
+
+#EXTINF:-1 group-title="TV ABERTA",Globo RBS Porto Alegre
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/501
+
+#EXTINF:-1 group-title="TV ABERTA",Globo RPC Curitiba
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/505
 
 #EXTINF:-1 group-title="TV ABERTA",Globo [MS]
 http://15.235.15.230:14504/
@@ -17,8 +29,8 @@ http://15.235.15.230:14504/
 #EXTINF:-1 group-title="TV ABERTA",Globo [RJ]
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/504
 
-#EXTINF:-1 group-title="TV ABERTA",Globo [SP]
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/511
+#EXTINF:-1 group-title="TV ABERTA",Record
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/529
 
 #EXTINF:-1 group-title="TV ABERTA",Record [Minas]
 http://168.205.87.198:8555/live/1217/123456/96.m3u8
@@ -43,6 +55,9 @@ https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",SBT [Minas]
 http://168.205.87.198:8555/live/1217/123456/104.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT [TV Guajara]
+https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 
 ###### VARIEDADES ######
 

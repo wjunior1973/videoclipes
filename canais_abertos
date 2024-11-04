@@ -19,9 +19,6 @@ http://168.205.87.198:8555/live/1368/123456/148.m3u8
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 
 #EXTINF:-1,AMC
-http://148.113.160.49:14008/
-
-#EXTINF:-1,AMC [Alter]
 http://dzcdn.vood.top/live/ottplayerchannel/JFYQWKNbCUe5/669.m3u8
 
 #EXTINF:-1,Animax

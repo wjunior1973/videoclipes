@@ -33,9 +33,6 @@ https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
 #EXTINF:-1,AWTV
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
 
-#EXTINF:-1,AXN
-http://ggrrth.htvsat.info:8880/287994017b71/287994017b71/16695
-
 #EXTINF:-1,Band RJ
 http://170.80.69.8:8000/play/a0dl/index.m3u8
 
@@ -74,9 +71,6 @@ https://canallibras-stream.ebc.com.br/playlist.m3u8
 
 #EXTINF:-1,Canal Rural
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
-
-#EXTINF:-1,Canal Sony
-http://ggrrth.htvsat.info:8880/287994017b71/287994017b71/16700
 
 #EXTINF:-1,Canal UOL
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-07et6wc1z29gv/index.m3u8
@@ -144,35 +138,14 @@ https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 #EXTINF:-1,Discovery
 http://gohbhosting.xyz:8080/Xpluxkikivgfcgkiki/Solucao11/101
 
-#EXTINF:-1,Discovery ID
-http://ggrrth.htvsat.info:8880/287994017b71/287994017b71/16736
-
 #EXTINF:-1,Discovery Kids
 http://gohbhosting.xyz:8080/Xpluxkikivgfcgkiki/Solucao11/1312
-
-#EXTINF:-1,Discovery Science
-http://ggrrth.htvsat.info:8880/287994017b71/287994017b71/16708
 
 #EXTINF:-1,Discovery Turbo
 http://gohbhosting.xyz:8080/Xpluxkikivgfcgkiki/Solucao11/1314
 
-#EXTINF:-1,Discovery World
-http://ggrrth.htvsat.info:8880/287994017b71/287994017b71/16712
-
 #EXTINF:-1,Disney Channel
 http://gohbhosting.xyz:8080/Xpluxkikivgfcgkiki/Solucao11/1316
-
-#EXTINF:-1,ESPN
-http://ggrrth.htvsat.info:8880/287994017b71/287994017b71/38800
-
-#EXTINF:-1,ESPN 2
-http://ggrrth.htvsat.info:8880/287994017b71/287994017b71/16716
-
-#EXTINF:-1,ESPN 3
-http://ggrrth.htvsat.info:8880/287994017b71/287994017b71/16725
-
-#EXTINF:-1,ESPN 4
-http://ggrrth.htvsat.info:8880/287994017b71/287994017b71/38801
 
 #EXTINF:-1,Filmelier
 https://cc-ivjqrycrrc6j3.akamaized.net/Sofa_Digital/Filmelier_BR/Filmelier.m3u8
@@ -231,21 +204,6 @@ http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
 #EXTINF:-1,Guia TV
 https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/chunklist_w672085632.m3u8
 
-#EXTINF:-1,H2 (History 2)
-http://ggrrth.htvsat.info:8880/287994017b71/287994017b71/16733
-
-#EXTINF:-1,HBO
-http://ggrrth.htvsat.info:8880/287994017b71/287994017b71/31465
-
-#EXTINF:-1,HBO 2
-http://ggrrth.htvsat.info:8880/287994017b71/287994017b71/31460
-
-#EXTINF:-1,HBO Family
-http://ggrrth.htvsat.info:8880/287994017b71/287994017b71/31462
-
-#EXTINF:-1,HBO Signature
-http://ggrrth.htvsat.info:8880/287994017b71/287994017b71/31473
-
 #EXTINF:-1,Homeful TV
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9flatd4lam6vc/master.m3u8
 
@@ -285,9 +243,6 @@ https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1,MAV TV
 https://cc-panvcqnzkgrdl.akamaized.net/Sports7/Sports7_BR/Sports7.m3u8
 
-#EXTINF:-1,Megapix
-http://ggrrth.htvsat.info:8880/287994017b71/287994017b71/31278
-
 #EXTINF:-1,Music Classics
 http://168.205.87.198:8555/live/1368/123456/231.m3u8
 
@@ -326,9 +281,6 @@ http://maistop.net:80/live/free/free/1.m3u8
 
 #EXTINF:-1,Paramount Network
 http://dzcdn.vood.top/live/ottplayerchannel/JFYQWKNbCUe5/695.m3u8
-
-#EXTINF:-1,Paramount+
-http://ggrrth.htvsat.info:8880/287994017b71/287994017b71/16746
 
 #EXTINF:-1,Play TV
 https://isaocorp.cloudecast.com/playtv/index.m3u8
@@ -462,17 +414,11 @@ http://altv1.top:80/Tourobox1-YCOLKg0TKT/CzsVW7Mq9z/261121.ts
 #EXTINF:-1,Telecine Action
 http://179.124.14.153:8080/17/mpegts
 
-#EXTINF:-1,Telecine Fun
-http://ggrrth.htvsat.info:8880/287994017b71/287994017b71/16756
-
 #EXTINF:-1,Telecine Pipoca
 http://15.235.15.230:14005
 
 #EXTINF:-1,Telecine Premium
 http://fzcdn.vood.top:80/hls/633_.m3u8
-
-#EXTINF:-1,Telecine Touch
-http://ggrrth.htvsat.info:8880/287994017b71/287994017b71/31593
 
 #EXTINF:-1,TNT
 http://fzcdn.vood.top/hls/731_.m3u8

@@ -1,16 +1,11 @@
+
 #EXTM3U
 
 #EXTINF:-1 group-title="VARIEDADES",40 Graus TV
 https://acesso.ecast.site:3125/stream/play.m3u8
 
-#EXTINF:-1 group-title="FILMES & SERIES",A&E
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/225
-
 #EXTINF:-1 group-title="FILMES & SERIES",Adrenalina Freezone
 https://cc-e2pb6h3gp19c3.akamaized.net/Sofa_Digital/Adrenalina_Freezone_BR/Adrenalina_Freezone.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Agro+
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/852
 
 #EXTINF:-1 group-title="ESPORTES",All Sports
 http://168.205.87.198:8555/live/1368/123456/148.m3u8
@@ -39,9 +34,6 @@ https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES",AWTV
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
 
-#EXTINF:-1 group-title="FILMES & SERIES",AXN
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/233
-
 #EXTINF:-1 group-title="TV ABERTA",Band RJ
 http://170.80.69.8:8000/play/a0dl/index.m3u8
 
@@ -54,20 +46,11 @@ https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist_720p.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Band Vale Web TV
 https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_720p.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS",Band News
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/482
-
-#EXTINF:-1 group-title="ESPORTES",Band Sports [1]
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/120
-
-#EXTINF:-1 group-title="ESPORTES",Band Sports [2]
+#EXTINF:-1 group-title="ESPORTES",Band Sports
 https://stream1.freetv.fun/band-sports-3.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Bem Melhor TV
 https://video01.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",BIS
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/419
 
 #EXTINF:-1 group-title="INFANTIS",Boxkids TV
 http://tv.mapfibra.com.br:8555/live/1368/123456/259.m3u8
@@ -135,9 +118,6 @@ http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:-1 group-title="ESPORTES",Combate
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/Sky1111XXhjgyu87/1
 
-#EXTINF:-1 group-title="VARIEDADES",Comedy Central
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/99
-
 #EXTINF:-1 group-title="VARIEDADES",Cultne.tv
 https://cc-wn1j3f2wnu5lr.akamaized.net/manifest.m3u8
 
@@ -159,50 +139,14 @@ https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Discovery
 http://gohbhosting.xyz:8080/Xpluxkikivgfcgkiki/Solucao11/101
 
-#EXTINF:-1 group-title="VARIEDADES",Discovery H&H
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/67
-
-#EXTINF:-1 group-title="VARIEDADES",Discovery ID
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/69
-
 #EXTINF:-1 group-title="INFANTIS",Discovery Kids
 http://gohbhosting.xyz:8080/Xpluxkikivgfcgkiki/Solucao11/1312
-
-#EXTINF:-1 group-title="INFANTIS",Discovery Science
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/71
-
-#EXTINF:-1 group-title="VARIEDADES",Discovery Teather
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/73
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery Turbo
 http://gohbhosting.xyz:8080/Xpluxkikivgfcgkiki/Solucao11/1314
 
-#EXTINF:-1 group-title="VARIEDADES",Discovery World
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/77
-
 #EXTINF:-1 group-title="INFANTIS",Disney Channel
 http://gohbhosting.xyz:8080/Xpluxkikivgfcgkiki/Solucao11/1316
-
-#EXTINF:-1 group-title="VARIEDADES",E!
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/102
-
-#EXTINF:-1 group-title="ESPORTES",ESPN
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/130
-
-#EXTINF:-1 group-title="ESPORTES",ESPN 2
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/129
-
-#EXTINF:-1 group-title="ESPORTES",ESPN 3
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/127
-
-#EXTINF:-1 group-title="ESPORTES",ESPN 4
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/142
-
-#EXTINF:-1 group-title="ESPORTES",ESPN 5
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/139
-
-#EXTINF:-1 group-title="ESPORTES",ESPN 6
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/133
 
 #EXTINF:-1 group-title="FILMES & SERIES",Filmelier
 https://cc-ivjqrycrrc6j3.akamaized.net/Sofa_Digital/Filmelier_BR/Filmelier.m3u8
@@ -212,12 +156,6 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 
 #EXTINF:-1 group-title="VARIEDADES",Fish TV
 http://168.205.87.198:8555/live/1368/123456/62.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Food Network
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/104
-
-#EXTINF:-1 group-title="FILMES & SERIES",FX
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/244
 
 #EXTINF:-1 group-title="ESPORTES",GE - Globo Esporte
 https://cc-huzqc47g60md7.akamaized.net/Globo/GE_Fast_BR/GE_Fast.m3u8
@@ -240,9 +178,6 @@ http://168.205.87.198:8555/live/1368/123456/70.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Globo MS
 http://15.235.15.230:14504/
 
-#EXTINF:-1 group-title="TV ABERTA",Globo NSC Blumenau
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/515
-
 #EXTINF:-1 group-title="TV ABERTA",Globo RJ
 https://stream1.freetv.fun/globo-rj-1.ctv
 
@@ -261,47 +196,11 @@ https://stream1.freetv.fun/globo-news-2.m3u8
 #EXTINF:-1 group-title="INFANTIS",Gloob
 http://gohbhosting.xyz:8080/Xpluxkikivgfcgkiki/Solucao11/2888
 
-#EXTINF:-1 group-title="INFANTIS",Gloobinho
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/359
-
-#EXTINF:-1 group-title="VARIEDADES",GNT
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/107
-
 #EXTINF:-1 group-title="FILMES & SERIES",Grjngo Brasil
 http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Guia TV
 https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/chunklist_w672085632.m3u8
-
-#EXTINF:-1 group-title="FILMES & SERIES",HBO
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/251
-
-#EXTINF:-1 group-title="FILMES & SERIES",HBO 2
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/247
-
-#EXTINF:-1 group-title="FILMES & SERIES",HBO+
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/246
-
-#EXTINF:-1 group-title="FILMES & SERIES",HBO Family
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/252
-
-#EXTINF:-1 group-title="FILMES & SERIES",HBO Mundi
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/256
-
-#EXTINF:-1 group-title="FILMES & SERIES",HBO Pop
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/260
-
-#EXTINF:-1 group-title="FILMES & SERIES",HBO Signature
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/264
-
-#EXTINF:-1 group-title="FILMES & SERIES",HBO Xtreme
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/266
-
-#EXTINF:-1 group-title="VARIEDADES",HGTV
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/816
-
-#EXTINF:-1 group-title="VARIEDADES",History Channel
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/83
 
 #EXTINF:-1 group-title="VARIEDADES",Homeful TV
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9flatd4lam6vc/master.m3u8
@@ -342,24 +241,6 @@ https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="ESPORTES",MAV TV
 https://cc-panvcqnzkgrdl.akamaized.net/Sports7/Sports7_BR/Sports7.m3u8
 
-#EXTINF:-1 group-title="FILMES & SERIES",Megapix
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/270
-
-#EXTINF:-1 group-title="VARIEDADES",Modo Viagem
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/85
-
-#EXTINF:-1 group-title="VARIEDADES",MTV
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/112
-
-#EXTINF:-1 group-title="VARIEDADES",MTV 00'S
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/430
-
-#EXTINF:-1 group-title="VARIEDADES",MTV Live
-http://cdn22.cc:80/Magalhaesps/101280/13.ts
-
-#EXTINF:-1 group-title="VARIEDADES",Multishow
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/423
-
 #EXTINF:-1 group-title="VARIEDADES",Music Classics
 http://168.205.87.198:8555/live/1368/123456/231.m3u8
 
@@ -375,32 +256,14 @@ http://168.205.87.198:8555/live/1368/123456/237.m3u8
 #EXTINF:-1 group-title="FILMES & SERIES",My Time Movie Network
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimemovie-samsungbr/playlist.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",NatGeo
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/87
-
 #EXTINF:-1 group-title="FILMES & SERIES",NCIS 24H
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 #EXTINF:-1 group-title="NOTICIAS",New Brasil
 https://cc-7pakstinpyajo.akamaized.net/playlist.m3u8
 
-#EXTINF:-1 group-title="INFANTIS",Nickelodeon
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/365
-
 #EXTINF:-1 group-title="INFANTIS",Nick Junior
 http://gohbhosting.xyz:8080/Xpluxkikivgfcgkiki/Solucao11/5009
-
-#EXTINF:-1 group-title="ESPORTES",Nosso Futebol 1
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/1131
-
-#EXTINF:-1 group-title="ESPORTES",Nosso Futebol 2
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/1132
-
-#EXTINF:-1 group-title="ESPORTES",Nosso Futebol 3
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/1133
-
-#EXTINF:-1 group-title="ESPORTES",Nosso Futebol 4
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/1134
 
 #EXTINF:-1 group-title="FILMES & SERIES",Novelissima
 https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
@@ -431,27 +294,6 @@ https://video01.soultv.com.br/popbola/popbola/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Pop TV
 https://pop.tv.br/hls/test_src.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Premiere Clubes
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/165
-
-#EXTINF:-1 group-title="ESPORTES",Premiere 1
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/148
-
-#EXTINF:-1 group-title="ESPORTES",Premiere 2
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/149
-
-#EXTINF:-1 group-title="ESPORTES",Premiere 3
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/153
-
-#EXTINF:-1 group-title="ESPORTES",Premiere 4
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/155
-
-#EXTINF:-1 group-title="ESPORTES",Premiere 5
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/157
-
-#EXTINF:-1 group-title="ESPORTES",Premiere 6
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/159
 
 #EXTINF:-1 group-title="VARIEDADES",Primer TV
 http://177.74.174.57:8080/hls/primertv.m3u8
@@ -525,9 +367,6 @@ https://cc-e2pb6h3gp19c3.akamaized.net/NewCo/Empreender_BR/Empreender.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Sato+
 https://sto-sat-samsung.otteravision.com/sto/sat/sat.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",SBT
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/534
-
 #EXTINF:-1 group-title="TV ABERTA",SBT Bahia
 https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8
 
@@ -543,41 +382,8 @@ https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 #EXTINF:-1 group-title="FILMES & SERIES",Series Classicas
 http://168.205.87.198:8555/live/1368/123456/160.m3u8
 
-#EXTINF:-1 group-title="FILMES & SERIES",Sky Filmes 01
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/1037
-
-#EXTINF:-1 group-title="FILMES & SERIES",Sky Filmes 02
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/1038
-
-#EXTINF:-1 group-title="FILMES & SERIES",Sky Filmes 03
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/1039
-
-#EXTINF:-1 group-title="FILMES & SERIES",Sky Filmes 04
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/1040
-
-#EXTINF:-1 group-title="FILMES & SERIES",Sky Filmes 05
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/1041
-
-#EXTINF:-1 group-title="FILMES & SERIES",Sky Filmes 06
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/1042
-
-#EXTINF:-1 group-title="FILMES & SERIES",Sky Filmes 07
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/1043
-
-#EXTINF:-1 group-title="FILMES & SERIES",Sky Filmes 08
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/1044
-
-#EXTINF:-1 group-title="FILMES & SERIES",Sky Filmes 09
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/1045
-
-#EXTINF:-1 group-title="FILMES & SERIES",Sky Filmes 10
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/1046
-
 #EXTINF:-1 group-title="VARIEDADES",Sol Brasil TV
 https://video01.soultv.com.br/solbrasil/solbrasil/playlist.m3u8
-
-#EXTINF:-1 group-title="FILMES & SERIES",Sony Channel
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/238
 
 #EXTINF:-1 group-title="FILMES & SERIES",Sony One Classics
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
@@ -600,24 +406,6 @@ https://stream1.freetv.fun/space-3.ctv
 #EXTINF:-1 group-title="VARIEDADES",Spark TV
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sr15nxkp06uk9/playlist.m3u8
 
-#EXTINF:-1 group-title="ESPORTES",SporTV
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/183
-
-#EXTINF:-1 group-title="ESPORTES",SporTV 2
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/172
-
-#EXTINF:-1 group-title="ESPORTES",SporTV 3
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/175
-
-#EXTINF:-1 group-title="FILMES & SERIES",Star Channel
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/281
-
-#EXTINF:-1 group-title="FILMES & SERIES",Studio Universal
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/289
-
-#EXTINF:-1 group-title="FILMES & SERIES",TCM
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/292
-
 #EXTINF:-1 group-title="FILMES & SERIES",Telecine Action
 http://179.124.14.153:8080/17/mpegts
 
@@ -635,9 +423,6 @@ http://fzcdn.vood.top:80/hls/633_.m3u8
 
 #EXTINF:-1 group-title="FILMES & SERIES",Telecine Touch
 http://15.235.50.113:14012
-
-#EXTINF:-1 group-title="VARIEDADES",TLC
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/91
 
 #EXTINF:-1 group-title="FILMES & SERIES",TNT
 http://fzcdn.vood.top/hls/731_.m3u8
@@ -668,9 +453,6 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 #EXTINF:-1 group-title="FILMES & SERIES",TV Clube Web
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",TV Diario
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/548
 
 #EXTINF:-1 group-title="RELIGIOSOS",TV Evangelizar
 http://168.205.87.198:8555/live/1368/123456/189.m3u8
@@ -762,17 +544,11 @@ http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Urban Turbo
 http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 
-#EXTINF:-1 group-title="FILMES & SERIES",USA Network
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/781
-
 #EXTINF:-1 group-title="VARIEDADES",VClassic TV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w271212718.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Viajando pelo Brasil
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Viva
-http://78.159.119.122:2082/Sky-1-sB2K1VdnM5/mEb8pFJId1/114
 
 #EXTINF:-1 group-title="VARIEDADES",Vox TV
 https://stmv1.samcast.com.br/voxtv/voxtv/playlist.m3u8

@@ -22,10 +22,7 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1,AMC
 http://dzcdn.vood.top/live/ottplayerchannel/JFYQWKNbCUe5/669.m3u8
 
-#EXTINF:-1,Animal Planet [1]
-http://gohbhosting.xyz:8080/Xpluxkikivgfcgkiki/Solucao11/98
-
-#EXTINF:-1,Animal Planet [2]
+#EXTINF:-1,Animal Planet
 http://170.80.69.8:8000/play/a09u/index.m3u8
 
 #EXTINF:-1,Animax
